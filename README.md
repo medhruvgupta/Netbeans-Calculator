@@ -6,10 +6,12 @@ A dynamic JFrame Applet program built on Netbeans using Java with features like 
 
 Welcome to the Calculator Project built on Netbeans using JAVA!
 This Calculator is platform dependent and can only be run on Netbeans.
-
-To run the this calculator=>
-
+You can download Netbeans from here- https://netbeans.apache.org/download/index.html
+.
+How to run the calculator=>
+.
 DOWNLOAD ALL FILES FROM THIS REPO.
+_
 Open Netbeans.
 Go to Files Menu and Select Open Project.
 ![Open Project](https://user-images.githubusercontent.com/35744316/127248396-0b855ecf-476e-495a-8665-3fdea883fec9.png)
