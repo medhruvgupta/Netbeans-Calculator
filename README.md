@@ -1,7 +1,7 @@
 # Netbeans-Calculator
 A dynamic JFrame Applet program built on Netbeans using Java with features like standard,scientific as well as unit inter-conversion calculations available! 
 
-=========================================================================================
+=====================================================================================
 
 
 Welcome to the Calculator Project built on Netbeans using JAVA!
@@ -24,6 +24,6 @@ Now Simply Press F6/Run project.
 Explore!
 
 
-===========================================================================================
+=======================================================================================
 
 ©github.com/medhruvgupta 2021!
